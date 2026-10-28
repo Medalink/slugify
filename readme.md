@@ -314,3 +314,7 @@ slugify('foo bar');
 - [slugify-cli](https://github.com/sindresorhus/slugify-cli) - CLI for this module
 - [transliterate](https://github.com/sindresorhus/transliterate) - Convert Unicode characters to Latin characters using transliteration
 - [filenamify](https://github.com/sindresorhus/filenamify) - Convert a string to a valid safe filename
+
+## Fork notes
+
+This fork is a test of xtend.
