@@ -1,0 +1,6 @@
+{
+  "upstream": "https://github.com/sindresorhus/slugify.git",
+  "branch": "main",
+  "agent": "claude -p --allowedTools \"Edit,Write,Bash(git rm *),Bash(git mv *)\"",
+  "check": ""
+}
